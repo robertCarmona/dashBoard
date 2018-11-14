@@ -1,0 +1,43 @@
+/* body */
+body{
+  background-color:black;
+}
+/* header */
+ header{
+   background-color: #ccff99;
+   border-radius: 10px;
+ }
+
+/* main section left side */
+aside{
+  background-color: #e0e0eb;
+  border-radius: 10px;
+}
+aside img{
+  height: 250px;
+  border-radius: 50px;
+}
+
+/* main section right side */
+.progress{
+  height: auto;
+  border-radius: 10px;
+  background-color: #e0e0eb;
+}
+.progress .barFill{
+  height: 40px;
+  width: 90%;
+}
+.progress .bar{
+  width: 100%;
+  background-color: black;
+  height: 20px;
+  border-radius: 10px;
+}
+
+.progress .fill{
+  width: 60%;
+  background-color: #ccff99;
+  height: 20px;
+  border-radius: 10px;
+}
